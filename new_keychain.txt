@@ -1,0 +1,1 @@
+{"mnemonic":"fence erase honey very option note main corn crunch vital rich frog lunch jar use clean ride expect rotate purpose travel coil divorce talent","keyInfo":{"privateKey":"422afecc79a97cf2e42dc5cdd837616e310d050bc4835995bbd46fdb1ad374ed01","address":"ST3YR5RSNMFTRAJT3C52Z57KCPM8F2DM3CY2AQQ70","btcAddress":"n4dQ3p5xtnNcWTxyzuPBH6QJ7RaQBywhJj","index":0}}
