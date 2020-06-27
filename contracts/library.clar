@@ -1,7 +1,7 @@
 (define-constant theowner 'ST398K1WZTBVY6FE2YEHM6HP20VSNVSSPJTW0D53M)
 (define-data-var own int 0)
 
-(define-private (owner)
+(define-public (owner)
   (begin (if (is-eq tx-sender theowner) (err "Not Owner")
   (begin (var-set own 1 ) (ok 1) )
   ) )
